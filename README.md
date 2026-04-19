@@ -4,7 +4,8 @@ A live cryptocurrency price tracker dashboard built with pure HTML, CSS, and Jav
 
 ## Live Demo
 
-> Click here to view — [https://samiullah-2004.github.io/Crypto-Price-Tracker/]
+[Click here to view](https://samiullah-2004.github.io/Crypto-Price-Tracker/)
+
 
 ---
 
